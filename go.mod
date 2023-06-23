@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/asdine/storm v2.1.2+incompatible
-	github.com/labstack/echo/v4 v4.7.2
+	github.com/labstack/echo/v4 v4.9.0
 	github.com/otiai10/copy v1.7.0
 	github.com/pterm/pterm v0.12.42
 	github.com/satori/go.uuid v1.2.0
