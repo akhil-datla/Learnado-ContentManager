@@ -2,7 +2,7 @@
 archives:
 - files:
   - hugo/
-  - frontend/build/
+  - frontend/
   - homepage.md
 builds:
   - goos:
