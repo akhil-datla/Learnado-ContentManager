@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'The Young Expressionists Courseware'
+title = 'Learnado'
 theme = 'hugo-theme-learn'
 
 [params]
